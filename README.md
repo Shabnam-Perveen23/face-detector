@@ -1,2 +1,2 @@
 # face-detector
-face detection project using python openCV 
+face and eye detection project using python openCV 
