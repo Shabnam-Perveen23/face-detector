@@ -1,2 +1,2 @@
 # face-detector
-face and eye detection project using python openCV 
+real time (video/image file input) face and eye detection project using python openCV 
